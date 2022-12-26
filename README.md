@@ -15,3 +15,6 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 - Download the zip and unzip
 - Select the unzipped folder as a vault in Obsidian
 - Enjoy
+
+## FAQ
+- ...
