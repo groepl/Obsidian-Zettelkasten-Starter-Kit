@@ -20,7 +20,7 @@ modified: 2022-12-05, 22:51
 
 # 2 Types of Tagging
 
-![[IMG_0099.PNG]]
+![[IMG_0099.PNG|300]]
 
 <!-- Main ideas of my sketchnote  -->
 
