@@ -1,0 +1,1 @@
+# Obsidian-Zettelkasten-Starter-Kit
