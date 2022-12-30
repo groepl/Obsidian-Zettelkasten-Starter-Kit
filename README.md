@@ -18,3 +18,6 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 
 ## FAQ
 - ...
+
+## Contact
+Please leave feedback here in the [GitHub discussions]() or file a new issue if you found a bug or have a feature request.
