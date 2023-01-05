@@ -1,3 +1,11 @@
+![](https://badgen.net/github/release/groepl/Obsidian-Zettelkasten-Starter-Kit/?icon=github) 
+![](https://badgen.net/github/releases/groepl/Obsidian-Zettelkasten-Starter-Kit/?icon=github) 
+![](https://badgen.net/github/watchers/groepl/Obsidian-Zettelkasten-Starter-Kit/?icon=github) 
+![](https://badgen.net/github/stars/groepl/Smart-Sketchnotes?icon=github) 
+![](https://badgen.net/mastodon/follow/groepl@darmstadt.social?icon=github) 
+![](https://badgen.net/twitter/follow/groepl?icon=github) 
+![](https://badgen.net/github/license/groepl/Obsidian-Zettelkasten-Starter-Kit/)
+
 # Obsidian-Zettelkasten-Starter-Kit
 A **Starter Kit** for **Obsidian** with all essential elements to build up your own **Zettelkasten** system.
 
