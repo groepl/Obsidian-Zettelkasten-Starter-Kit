@@ -5,6 +5,7 @@
 ![](https://badgen.net/mastodon/follow/groepl@darmstadt.social?icon=github) 
 ![](https://badgen.net/twitter/follow/groepl?icon=github) 
 ![](https://badgen.net/github/license/groepl/Obsidian-Zettelkasten-Starter-Kit/)
+![](https://badgen.net/github/license/groepl/Obsidian-Templates/)
 
 # Obsidian-Zettelkasten-Starter-Kit
 A **Starter Kit** for **Obsidian** with all essential elements to build up your own **Zettelkasten** system.
