@@ -1,5 +1,5 @@
 ---
-tags: type/sketchnote
+tags: type/sketchnote theme/zettelkasten 
 #theme/ - build cluster 
 #index/ - define entry point
 # 
@@ -19,10 +19,10 @@ created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 #
 template-type: Sketchnote
-template-version: "1.1"
-#
+template-version: "1.2"
 cc: "CC BY-SA 4.0"
 legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+source: https://github.com/groepl/Obsidian-Templates
 ---
 
 # {{Title}}

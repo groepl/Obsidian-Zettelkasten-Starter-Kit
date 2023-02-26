@@ -19,13 +19,12 @@ created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 #
 template-type: BuJo Monthly
-template-version: "1.1"
-#
+template-version: "1.3"
 cc: "CC BY-SA 4.0"
 legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+source: https://github.com/groepl/Obsidian-Templates
 ---
 # {{Title}}
-2022-05-14, 20:13
 
 <!-- Main STRUCTURE of my content -->
 

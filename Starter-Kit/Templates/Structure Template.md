@@ -19,10 +19,10 @@ created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 #
 template-type: Structure
-template-version: "1.2"
-#
+template-version: "1.4"
 cc: "CC BY-SA 4.0"
 legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+source: https://github.com/groepl/Obsidian-Templates
 ---
 
 # {{Title}}
@@ -32,17 +32,17 @@ legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 
 ---
-##### Questions
+## Questions
 <!-- What remains for you to consider? --> 
 - 
 
 
-##### Terms
+## Terms
 <!-- Links to definition pages -->
 - 
 
 
-##### References
+## References
 <!-- Links to pages not referenced in the content -->
 - 
 

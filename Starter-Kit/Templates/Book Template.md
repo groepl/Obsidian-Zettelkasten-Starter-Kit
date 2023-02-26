@@ -37,14 +37,14 @@ read:
 status: undefined
 # status: backlog, to read, reading, completed, stopped
 #
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 #
 template-type: Book
-template-version: "1.2"
-#
+template-version: "1.4"
 cc: "CC BY-SA 4.0"
 legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+source: https://github.com/groepl/Obsidian-Templates
 ---
 
 ![cover|150]({{coverUrl}})
