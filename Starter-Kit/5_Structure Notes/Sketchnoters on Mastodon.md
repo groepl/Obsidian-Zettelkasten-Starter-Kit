@@ -54,8 +54,6 @@ https://troet.cafe/@inessketchnoted
 Ralph Rute - https://troet.cafe/@ralphruthe - 26.04.2022
 Tobias Vogel - https://troet.cafe/@kriegundfreitag - 26-04.2022
 
-https://darmstadt.social/lists/66
-
 ---
 ## Questions
 <!-- What remains for you to consider? --> 
