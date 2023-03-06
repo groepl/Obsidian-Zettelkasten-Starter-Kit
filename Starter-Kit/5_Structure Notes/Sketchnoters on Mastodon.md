@@ -23,7 +23,7 @@ modified: 2022-11-26, 15:50
 <!-- Main content of my thoughts really -->
 
 **Bildung**  
-Katha Bluhm - https://bildung.social/@kathabluhm
+- Katha Bluhm - https://bildung.social/@kathabluhm
 
 **Darmstadt**
 Edmund Gröpl - https://darmstadt.social/@groepl
