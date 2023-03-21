@@ -1,20 +1,9 @@
 ---
 tags: type/book
-#theme/ - build cluster 
-#index/ - define entry point
-#
-#type/ - note characteristics
-#source/ - where note comes from
-#target/ - where note will go to
-#
-#chart/ - from #type/chart 
-#kanban/ - from #type/kanban
-#role/ - from #type/person
-#structure/ - from #type/structure
-#visual/ - from #type/visual
-#
+# type/ theme/ index/ source/ target/ 
+# chart/ kanban/ role/ structure/ tool/ visual/ 
+# -> https://forum.obsidian.md/t/how-to-use-tags/
 aliases: 
-#
 title: 
 subtitle: 
 author: 
@@ -36,14 +25,13 @@ date:
 read: 
 status: undefined
 # status: backlog, to read, reading, completed, stopped
-#
 created: 2022-12-07, 21:45
-modified: 2023-01-26, 18:34
-#
+modified: 2023-03-21, 17:42
+# -> https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Frontmatter Book
 template-version: "1.2"
 cc: "CC BY-SA 4.0"
-legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+# -> https://creativecommons.org/licenses/by-sa/4.0/legalcode
 source: https://github.com/groepl/Obsidian-Templates
 ---
 
