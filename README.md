@@ -26,7 +26,7 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 - Enjoy
 
 ## FAQ
-- ...
+- Where can I find the latest updates from Obsidian-Templates for Zettelkasten? https://github.com/groepl/Obsidian-Templates
 
 ## Contact
 Please leave feedback here in the [GitHub discussions](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/discussions) or file a new issue if you found a bug or have a feature request.
