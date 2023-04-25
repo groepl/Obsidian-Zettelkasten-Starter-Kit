@@ -1,23 +1,19 @@
 ---
 tags: type/structure, structure/bujo
-# type/ theme/ index/ source/ target/ 
-# chart/ kanban/ role/ structure/ tool/ visual/ 
-# -> https://forum.obsidian.md/t/how-to-use-tags/
+# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
 aliases: 
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
-# -> https://github.com/beaussan/update-time-on-edit-obsidian
+# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: BuJo Monthly
-template-version: "1.4"
-cc: "CC BY-SA 4.0"
-# -> https://creativecommons.org/licenses/by-sa/4.0/legalcode
-source: https://github.com/groepl/Obsidian-Templates
+template-version: "1.6"
+# --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 # {{Title}}
 
 <!-- Main STRUCTURE of my content -->
 
-[Monthly Log 2019](Monthly%20Log%202019.md) | [[Monthly Log 2020]] | [[Monthly Log 2021]] | [Monthly Log 2022](Monthly%20Log%202022.md)
+[Monthly Log 2019](Monthly%20Log%202019.md) | [[Monthly Log 2020]] | [[Monthly Log 2021]] | [Monthly Log 2022](Monthly%20Log%202022.md) | [Monthly Log 2023](Monthly%20Log%202023.md)
 ___
 
 **Objectives & Key Results | 3-4 & 1-4**

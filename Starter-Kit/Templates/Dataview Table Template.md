@@ -1,4 +1,3 @@
-
 <!-- DataView table, use example and modify -->
 ```dataview
 TABLE WITHOUT ID
@@ -17,6 +16,11 @@ TABLE WITHOUT ID
 	file.link AS ...
 	file.name AS ...
 	file.etags AS ...
+	length(file.outlinks) AS …
+	length(file.inlinks) AS …
+	length(file.etags) AS …
+	dateformat(file.cday, "yyyy-MM-dd") AS Date
+	dateformat(file.cday, "yyyy-LLL-dd") AS Date
 
 FROM #target/forumzettelkasten  : when using tags
 FROM "Books"                                : when using folders
@@ -28,6 +32,11 @@ SORT file.name ASC
 
 WHERE read = 2023
 WHERE status = "open"
+WHERE contains(file.name,"LernOS Zettelkasten")
+WHERE sketchnote != empty
+
+LIMIT 3
+
 ---
 More about: 
 https://github.com/blacksmithgu/obsidian-dataview/blob/master/docs/docs/queries/query-types.md
