@@ -24,6 +24,7 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 - Download the zip and unzip
 - Select the unzipped folder as a vault in Obsidian
 - Read book from [Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes)
+- Explore Starter Kit
 - Enjoy
 
 ## FAQ
