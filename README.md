@@ -28,7 +28,7 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 - Enjoy
 
 ## Workflow
-<img src="/Starter-Kit/Visuals/IMG_0098.png" width="700" />
+<img src="/Starter-Kit/Visuals/IMG_0843.png" width="700" />
 
 Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahrens.de/en/takesmartnotes).
 
