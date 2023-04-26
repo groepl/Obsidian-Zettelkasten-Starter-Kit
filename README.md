@@ -28,6 +28,7 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 - Enjoy
 
 ## Workflow
+<img src="/Visuals/IMG_0098.png" width="700" />
 
 
 ## FAQ
