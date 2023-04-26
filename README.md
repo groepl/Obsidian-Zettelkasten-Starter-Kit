@@ -29,7 +29,7 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 
 ## Workflow
 <img src="/Starter-Kit/Visuals/IMG_0098.png" width="700" />
-Page numbers reference to book "[How to Take Smart Notes](https://www.soenkeahrens.de/en/takesmartnotes)".
+Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahrens.de/en/takesmartnotes).
 
 ## FAQ
 - [Where can I find the latest updates from Obsidian-Templates for Zettelkasten?](https://github.com/groepl/Obsidian-Templates)
