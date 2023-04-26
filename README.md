@@ -27,6 +27,9 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 - Explore Starter Kit
 - Enjoy
 
+## Workflow
+
+
 ## FAQ
 - [Where can I find the latest updates from Obsidian-Templates for Zettelkasten?](https://github.com/groepl/Obsidian-Templates)
 - [How can I learn more about Obsidian and Zettelkasten?](https://github.com/groepl/Take-Useful-Notes)
