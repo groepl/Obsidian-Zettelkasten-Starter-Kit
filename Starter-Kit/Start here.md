@@ -1,20 +1,12 @@
 ---
-tags: type/structure, type/quote, structure/moc, structure/start
-#theme/ - build cluster 
-#index/ - define entry point
-#
-#type/ - how note looks like
-#source/ - where note comes from
-#target/ - where note will go to
-#
-#chart/ - from #type/chart 
-#kanban/ - from #type/kanban
-#role/ - from #type/person
-#structure/ - from #type/structure
-#visual/ - from #type/visual 
-#
-aliases: home, Home
-#
+tags:
+  - type/structure
+  - type/quote
+  - structure/moc
+  - structure/start
+aliases:
+  - home
+  - Home
 created: 2022-03-21, 21:37
 modified: 2022-12-17, 16:06
 banner: "![[IMG_0319.png]]"
@@ -71,10 +63,6 @@ ___
 
 ### References
 - **Other callouts**: https://help.obsidian.md/How+to/Use+callouts
-- [[Obsidian Plugin - Mind Map]]
-
-![](Start%20here.png)
-
 - [Map of Content](Map%20of%20Content.md)
 - [One cannot think without writing](One%20cannot%20think%20without%20writing.md)
 - [Maps of Content](Maps%20of%20Content.md)
