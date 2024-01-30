@@ -25,6 +25,7 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 - Select the unzipped folder as a vault in Obsidian
 - Read book from [Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes)
 - Explore Starter Kit
+- Learn to use [templates](https://github.com/groepl/Obsidian-Templates?tab=readme-ov-file#list-of-templates)
 - Enjoy
 
 ## Workflow
