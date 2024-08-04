@@ -33,13 +33,13 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 
 Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahrens.de/en/takesmartnotes).
 
-## FAQ
-- [Where can I find the latest updates from Obsidian-Templates for Zettelkasten?](https://github.com/groepl/Obsidian-Templates)
-- [How can I learn more about Obsidian and Zettelkasten?](https://github.com/groepl/Take-Useful-Notes)
-
 ## Literature Map
 <img src="/Starter-Kit/Visuals/Zettelkasten_LitMap_2024-08-04.png" width="700" />
 Download PDF: https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/blob/main/Starter-Kit/Assets/Zettelkasten_LitMap_2024-08-04.pdf
+
+## FAQ
+- [Where can I find the latest updates from Obsidian-Templates for Zettelkasten?](https://github.com/groepl/Obsidian-Templates)
+- [How can I learn more about Obsidian and Zettelkasten?](https://github.com/groepl/Take-Useful-Notes)
 
 ## Contact
 Please leave feedback here in the [GitHub discussions](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/discussions) or file a new issue if you found a bug or have a feature request.
