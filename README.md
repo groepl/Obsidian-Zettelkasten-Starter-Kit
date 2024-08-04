@@ -36,8 +36,8 @@ Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahren
 ## Literature Map
 <img src="/Starter-Kit/Visuals/Zettelkasten_LitMap_2024-08-04.png" width="700" />
 Download PDF: 
-[Zettelkasten - Literature Map](Starter-Kit/Assets/Zettelkasten_LitMap_2024-08-04.pdf)
-(Starter-Kit/Assets/Zettelkasten_LitMap_2024-08-04.pdf)
+[Zettelkasten - Literature Map](Starter-Kit/Assets/Zettelkasten_LitMap_2024-08-04.pdf) 
+[1](Starter-Kit/Assets/Zettelkasten_LitMap_2024-08-04.pdf)
 
 
 ## FAQ
