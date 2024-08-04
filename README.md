@@ -35,7 +35,7 @@ Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahren
 
 ## Literature Map
 <img src="/Starter-Kit/Visuals/Zettelkasten_LitMap_2024-08-04.png" width="700" />
-Download PDF: [Zettelkasten Literature Map](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/blob/b838fbf960d997a4c74c63e91c3982dfdb38edef/Starter-Kit/Assets/Zettelkasten_LitMap_2024-08-04.pdf)
+Download PDF [Zettelkasten Literature Map](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/blob/b838fbf960d997a4c74c63e91c3982dfdb38edef/Starter-Kit/Assets/Zettelkasten_LitMap_2024-08-04.pdf)
 
 ## FAQ
 - [Where can I find the latest updates from Obsidian-Templates for Zettelkasten?](https://github.com/groepl/Obsidian-Templates)
