@@ -38,6 +38,7 @@ Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahren
 Download PDF [Zettelkasten Literature Map](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/blob/b838fbf960d997a4c74c63e91c3982dfdb38edef/Starter-Kit/Assets/Zettelkasten_LitMap_2024-08-04.pdf)
 
 ## Ontology Map
+<img src="/Starter-Kit/Visuals/Zettelkasten_Ontology.png" width="700" />
 
 
 ## FAQ
