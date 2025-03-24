@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"4c10fefdbd7ba560","x":621,"y":-793,"width":400,"height":400,"type":"file","file":"3_Permanent Notes/Project Notes.md"},
+		{"id":"6957907e1263140e","x":-143,"y":-1434,"width":400,"height":400,"type":"file","file":"3_Permanent Notes/Structure Notes.md"},
+		{"id":"27f27e2c1a6f8625","x":-143,"y":-793,"width":400,"height":400,"type":"file","file":"3_Permanent Notes/Permanent Notes.md"},
+		{"id":"d9f3f85f53627923","x":-901,"y":-793,"width":400,"height":400,"type":"file","file":"3_Permanent Notes/Literature Notes.md"},
+		{"id":"0bf3fcb4cccbff79","x":696,"y":-277,"width":250,"height":60,"type":"text","text":"# OUT-BOX"},
+		{"id":"e964f6e6fb14cb37","x":-68,"y":-277,"width":250,"height":60,"type":"text","text":"# SLIP-BOX"},
+		{"id":"e05c1a117fbc99b0","x":-826,"y":-277,"width":250,"height":60,"type":"text","text":"# INBOX"},
+		{"id":"82816a85bc5f883d","x":621,"y":-1434,"width":400,"height":400,"type":"file","file":"3_Permanent Notes/Obsidian Canvas.md"},
+		{"id":"62c2644c3c8384bc","x":-826,"y":-1094,"width":250,"height":60,"type":"text","text":"# SOURCES"},
+		{"id":"70602c8279960176","x":1310,"y":-623,"width":250,"height":60,"type":"text","text":"# TARGET"}
+	],
+	"edges":[
+		{"id":"5ac1cb22709b93cd","fromNode":"6957907e1263140e","fromSide":"bottom","toNode":"27f27e2c1a6f8625","toSide":"top","label":"organize logically\n"},
+		{"id":"9011883a4f3fd396","fromNode":"d9f3f85f53627923","fromSide":"right","toNode":"27f27e2c1a6f8625","toSide":"left","label":"de-contextualize\nideas"},
+		{"id":"2fa1722e338d0e39","fromNode":"27f27e2c1a6f8625","fromSide":"right","toNode":"4c10fefdbd7ba560","toSide":"left","label":"re-contextualize\nideas"},
+		{"id":"921b971d70630e90","fromNode":"82816a85bc5f883d","fromSide":"bottom","toNode":"4c10fefdbd7ba560","toSide":"top","label":"organize visually\n"},
+		{"id":"d03a159168dc9476","fromNode":"62c2644c3c8384bc","fromSide":"bottom","toNode":"d9f3f85f53627923","toSide":"top","label":"retrieve"},
+		{"id":"3931c16c0bfa1e19","fromNode":"4c10fefdbd7ba560","fromSide":"right","toNode":"70602c8279960176","toSide":"left","label":"publish\nideas"}
+	]
+}
