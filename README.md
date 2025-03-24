@@ -39,6 +39,8 @@ Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahren
 ## Ontology Map
 <img src="/Starter-Kit/Visuals/Zettelkasten_Ontology.png" width="700" />
 
+More about: https://forum.obsidian.md/t/limit-folders-how-do-you-use-zettelkasten-in-obsidian/35008/32
+
 ## FAQ
 - [Where can I find the latest updates from Obsidian-Templates for Zettelkasten?](https://github.com/groepl/Obsidian-Templates)
 - [How can I learn more about Obsidian and Zettelkasten?](https://github.com/groepl/Take-Useful-Notes)
