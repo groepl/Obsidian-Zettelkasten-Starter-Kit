@@ -26,7 +26,7 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 - Install Obidian community plugins: [Banners](https://github.com/noatpad/obsidian-banners), [Charts](https://github.com/phibr0/obsidian-charts) and [DataView](https://github.com/blacksmithgu/obsidian-dataview).
 - Read book from [Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes)
 - Explore Starter Kit
-- Learn to use [templates](https://github.com/groepl/Obsidian-Templates?tab=readme-ov-file#list-of-templates)
+- Learn to use [Obsidian-Templates for Zettelkasten](https://github.com/groepl/Obsidian-Templates?tab=readme-ov-file#list-of-templates)
 - Enjoy
 
 ## Workflow
