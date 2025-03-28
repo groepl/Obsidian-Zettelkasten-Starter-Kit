@@ -29,15 +29,15 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 - Enjoy
 
 ## Workflow
-<img src="/Starter-Kit/Visuals/IMG_0843.png" width="700" />
+<img src="/Starter-Kit/Visuals/IMG_0843.png" width="500" />
 
 Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahrens.de/en/takesmartnotes).
 
 ## Literature Map
-<img src="/Starter-Kit/Visuals/Zettelkasten_LitMap_2024-08-04.png" width="700" />
+<img src="/Starter-Kit/Visuals/Zettelkasten_LitMap_2024-08-04.png" width="500" />
 
 ## Ontology Map
-<img src="/Starter-Kit/Visuals/Zettelkasten_Ontology.png" width="700" />
+<img src="/Starter-Kit/Visuals/Zettelkasten_Ontology.png" width="500" />
 
 More about: https://forum.obsidian.md/t/limit-folders-how-do-you-use-zettelkasten-in-obsidian/35008/32
 
