@@ -23,6 +23,7 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 ## Usage
 - Download the zip and unzip
 - Select the unzipped folder as a vault in Obsidian
+- Install Obidian community plugins: Banners, Charts and Dataview
 - Read book from [Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes)
 - Explore Starter Kit
 - Learn to use [templates](https://github.com/groepl/Obsidian-Templates?tab=readme-ov-file#list-of-templates)
