@@ -27,7 +27,7 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 - Read book from [Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes)
 - Explore Starter Kit
 - Learn to use [Obsidian-Templates for Zettelkasten](https://github.com/groepl/Obsidian-Templates?tab=readme-ov-file#list-of-templates)
-- Enjoy
+- Enjoy!
 
 ## Workflow
 <img src="/Starter-Kit/Visuals/IMG_0843.png" width="500" />
