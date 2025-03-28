@@ -1,28 +1,16 @@
 ---
 tags:
-#theme/ - build cluster 
-#index/ - define entry point
--
--
-### Outward attributes of note
-#type/ - how note looks like
-#source/ - where note comes from
-#target/ - where note will go to
-- type/note
--
-### Refinement of #type attributes
-#chart/ - from #type/chart 
-#kanban/ - from #type/kanban
-#role/ - from #type/person
-#structure/ - from #type/structure
-#visual/ - from #type/visual
--
--
+  - type/note
+  - theme/zettelkasten
 aliases: 
-created: 2022-07-29, 16:45
-modified: 2022-11-01, 17:49
+created: 2025-03-28, 17:20
+modified: 2025-03-28, 17:20
+lead: Notebook Export
+visual: "![[image.jpg]]"
+template_type: Frontmatter
+template_version: "1.12"
 ---
-- [ ] Create atomic notes from Literature Note
+<!--  See "Template Help" below for using properties -->
 # Digital Zettelkasten - Principles and Methods
 
 <!-- Main content of my thoughts really -->
@@ -160,17 +148,43 @@ Readwise,
 
 
 ---
-##### Questions
+# Back Matter
+
+**Source**
+<!-- Always keep a link to the source- --> 
+- based_on::  [Digital Zettelkasten - Principles and Methods](Digital%20Zettelkasten%20-%20Principles%20and%20Methods.md)
+- 
+
+**References**
+<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
+- see:: [[David Kadavy]]
+
+**Terms**
+<!-- Links to definition pages. -->
+- 
+
+**Target**
+<!-- Link to project note or externaly published content. -->
+- used_in::
+
+---
+**Tasks**
+<!-- What remains to be done with this note? --> 
+- [ ] Create atomic notes from Literature Note
+
+**Questions**
 <!-- What remains for you to consider? --> 
-- 
+- question::
 
-##### Terms
-<!-- Links to definition pages -->
-- 
-
-##### References
-<!-- Links to pages not referenced in the content -->
-- [Digital Zettelkasten - Principles and Methods](Digital%20Zettelkasten%20-%20Principles%20and%20Methods.md), [[David Kadavy]]
+---
+**Template Help**
+<!-- Links to external help pages on GitHub. -->
+- [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)
+- [How to Use Links](https://github.com/groepl/Obsidian-Templates#how-to-use-links)
+- [How to Use Tags](https://github.com/groepl/Obsidian-Templates#how-to-use-tags)
+- [How to Search Notes](https://github.com/groepl/Obsidian-Templates#how-to-search-notes)
+- [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
+- [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)
 
 
 
