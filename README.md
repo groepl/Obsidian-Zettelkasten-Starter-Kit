@@ -32,7 +32,7 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 ## Workflow
 <img src="/Starter-Kit/Visuals/IMG_0843.png" width="500" />
 
-Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahrens.de/en/takesmartnotes).
+Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahrens.de/en/takesmartnotes). from Sönke Ahrens.
 
 ## Literature Map
 <img src="/Starter-Kit/Visuals/Zettelkasten_LitMap_2024-08-04.png" width="500" />
