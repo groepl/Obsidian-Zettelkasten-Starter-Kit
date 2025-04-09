@@ -29,9 +29,6 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 - Learn to use [Obsidian-Templates for Zettelkasten](https://github.com/groepl/Obsidian-Templates?tab=readme-ov-file#list-of-templates)
 - Enjoy!
 
-## System Definition
-<img src="/Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png" width="500" />
-
 ## Workflow
 <img src="/Starter-Kit/Visuals/IMG_0843.png" width="500" />
 
@@ -44,6 +41,9 @@ Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahren
 <img src="/Starter-Kit/Visuals/Zettelkasten_Ontology.png" width="500" />
 
 More about: https://forum.obsidian.md/t/limit-folders-how-do-you-use-zettelkasten-in-obsidian/35008/32
+
+## System Definition
+<img src="/Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png" width="500" />
 
 ## FAQ
 - [Where can I find the latest updates from Obsidian-Templates for Zettelkasten?](https://github.com/groepl/Obsidian-Templates)
