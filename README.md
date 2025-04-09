@@ -30,7 +30,7 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 - Enjoy!
 
 ## System Definition
-
+<img src="/Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png" width="500" />
 
 ## Workflow
 <img src="/Starter-Kit/Visuals/IMG_0843.png" width="500" />
