@@ -42,7 +42,8 @@ Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahren
 
 More about: https://forum.obsidian.md/t/limit-folders-how-do-you-use-zettelkasten-in-obsidian/35008/32
 
-## System Definition
+## Zettelkasten Definition
+<img src="/Starter-Kit/Visuals/Zettelkasten System Definition Example_01.png" width="500" />
 <img src="/Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png" width="500" />
 
 ## FAQ
