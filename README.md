@@ -48,6 +48,7 @@ A Zettelkasten is a personal knowledge management system which consists of five 
 <img src="/Starter-Kit/Visuals/Zettelkasten System Definition Example_01.png" width="500" />
 
 The Zettelkasten System Definition within the extended structure: 
+
 <img src="/Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png" width="500" />
 
 ## FAQ
