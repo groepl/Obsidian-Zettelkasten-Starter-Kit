@@ -46,6 +46,8 @@ More about: https://forum.obsidian.md/t/limit-folders-how-do-you-use-zettelkaste
 A Zettelkasten is a personal knowledge management system which consists of five key components: notes, links, meta data, structures and processes. Within the contexts of research, study and writing it is designed to support idea generation, knowledge development and long-term learning.
 
 <img src="/Starter-Kit/Visuals/Zettelkasten System Definition Example_01.png" width="500" />
+
+The Zettelkasten System Definition within the extended structure: 
 <img src="/Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png" width="500" />
 
 ## FAQ
