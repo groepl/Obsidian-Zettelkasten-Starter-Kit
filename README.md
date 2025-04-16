@@ -42,8 +42,10 @@ Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahren
 
 More about: https://forum.obsidian.md/t/limit-folders-how-do-you-use-zettelkasten-in-obsidian/35008/32
 
-## Zettelkasten System Definition
-A Zettelkasten is a personal knowledge management system which consists of five key components: notes, links, meta data, structures and processes. Within the contexts of research, study and writing it is designed to support idea generation, knowledge development and long-term learning.
+## Zettelkasten Definition
+A Zettelkasten can be defined as a personal knowledge management system consisting of five key components: notes, links, meta data, structures and processes. In the context of research, study and writing, a Zettelkasten is designed to support idea generation, knowledge development and long-term learning. The best way to understand the underlying concepts of Zettelkasten is to look at a typical example (a prototype or starter kit).
+
+But Zettelkasten is not one thing with fixed boundaries. It's a family of approaches that resemble each other through purpose, structure, and function. You don't need all the traits—you need enough to belong.
 
 <img src="/Starter-Kit/Visuals/Zettelkasten System Definition Example_01.png" width="500" />
 
