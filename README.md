@@ -60,6 +60,10 @@ The Zettelkasten within a **Family Resemblance Model**:
 
 <img src="/Starter-Kit/Visuals/Zettelkasten_models_2025-04-15.png" width="500" />
 
+The Zettelkasten within a **Maturity Model**: 
+
+tbd.
+
 The Zettelkasten within a **Historical Model**: 
 
 <img src="/Starter-Kit/Visuals/Zettelkasten_history_2025-04-18.png" width="500" />
