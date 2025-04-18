@@ -53,6 +53,14 @@ The Zettelkasten System Definition within the extended structure:
 
 <img src="/Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png" width="500" />
 
+The Zettelkasten within a family resemblance model: 
+
+<img src="/Starter-Kit/Visuals/Zettelkasten_models_2025-04-15.png" width="500" />
+
+The Zettelkasten within a historical model: 
+
+<img src="/Starter-Kit/Visuals/Zettelkasten_history_2025-04-18.png" width="500" />
+
 ## FAQ
 - [Where can I find the latest updates from Obsidian-Templates for Zettelkasten?](https://github.com/groepl/Obsidian-Templates)
 - [How can I learn more about Obsidian and Zettelkasten?](https://github.com/groepl/Take-Useful-Notes)
