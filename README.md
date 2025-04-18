@@ -62,7 +62,7 @@ The Zettelkasten within a **Family Resemblance Model**:
 
 The Zettelkasten within a **Maturity Model**: 
 
-tbd.
+- tbd.
 
 The Zettelkasten within a **Historical Model**: 
 
