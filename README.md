@@ -53,11 +53,11 @@ The Zettelkasten System Definition within the extended structure:
 
 <img src="/Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png" width="500" />
 
-The Zettelkasten within a family resemblance model: 
+The Zettelkasten within a **Family Resemblance Model**: 
 
 <img src="/Starter-Kit/Visuals/Zettelkasten_models_2025-04-15.png" width="500" />
 
-The Zettelkasten within a historical model: 
+The Zettelkasten within a **Historical Model**: 
 
 <img src="/Starter-Kit/Visuals/Zettelkasten_history_2025-04-18.png" width="500" />
 
