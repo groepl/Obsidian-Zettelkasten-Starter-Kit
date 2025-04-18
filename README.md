@@ -49,7 +49,7 @@ But Zettelkasten is not one thing with fixed boundaries. It's a family of approa
 
 <img src="/Starter-Kit/Visuals/Zettelkasten System Definition Example_01.png" width="500" />
 
-The Zettelkasten System Definition within the extended structure: 
+The Zettelkasten within a **Systems Model**: 
 
 <img src="/Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png" width="500" />
 
