@@ -56,6 +56,10 @@ The Zettelkasten within a detailed **Systems Model**:
 
 <img src="/Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png" width="500" />
 
+The Zettelkasten within a detailed **Use Case Model**: 
+
+<img src="/Starter-Kit/Visuals/Zettelkasten_usecase_model_2025-04-24.png" width="500" />
+
 The Zettelkasten within a **Family Resemblance Model**: 
 
 <img src="/Starter-Kit/Visuals/Zettelkasten_models_2025-04-15.png" width="500" />
