@@ -48,7 +48,7 @@ A Zettelkasten can be defined as a personal knowledge management system consisti
 But Zettelkasten is not one thing with fixed boundaries. It's a family of approaches that resemble each other through purpose, structure, and function. You don't need all the traits—you need enough to belong.
 
 
-Zettelkasten within a **Systems Model**: 
+**Zettelkasten Systems Model**
 
 <img src="/Starter-Kit/Visuals/Zettelkasten System Definition Example_01.png" width="500" />
 
