@@ -50,7 +50,7 @@ But Zettelkasten is not one thing with fixed boundaries. It's a family of approa
 ## Zettelkasten Models
 Why use a few simple words to define the term Zettelkasten, when it can be explained just as well with a dozen sophisticated models.
 
-**Zettelkasten Systems Model**
+### Zettelkasten Systems Model
 
 <img src="/Starter-Kit/Visuals/Zettelkasten System Definition Example_01.png" width="500" />
 
