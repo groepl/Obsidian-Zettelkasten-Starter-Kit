@@ -62,7 +62,7 @@ But Zettelkasten is not one thing with fixed boundaries. It's a family of approa
 
 **Zettelkasten Object-Oriented Model** 
 
-<img src="/Starter-Kit/Visuals/Zettelkasten_usecase_model_2025-04-24.png" width="500" />
+<img src="/Starter-Kit/Visuals/Zettelkasten_Class_Diagram_2025-04-26.png" width="500" />
 
 **Zettelkasten Family Resemblance Model**
 
