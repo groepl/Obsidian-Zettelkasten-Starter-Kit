@@ -65,7 +65,7 @@ Why use a few simple words to define the term Zettelkasten, when it can be expla
 ### Zettelkasten Object-Oriented Model 
 
 <img src="/Starter-Kit/Visuals/Zettelkasten_Class_Diagram_2025-04-26.png" width="500" />
-<small>More about: <a href="https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/blob/main/Starter-Kit/Assets/Zettelkasten_Class_Diagram_2025-04-26.pdf">PDF with links to sources</a></small>
+More about: <a href="https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/blob/main/Starter-Kit/Assets/Zettelkasten_Class_Diagram_2025-04-26.pdf">PDF with links to sources</a>
 
 ### Zettelkasten Family Resemblance Model
 
