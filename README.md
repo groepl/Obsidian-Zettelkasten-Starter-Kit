@@ -61,7 +61,7 @@ Why use a few simple words to define the term Zettelkasten, when it can be expla
 ### Zettelkasten Use Case Model 
 
 <img src="/Starter-Kit/Visuals/Zettelkasten_usecase_model_2025-04-24.png" width="500" />
-Also see: https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/blob/main/Starter-Kit/Assets/Zettelkasten_Class_Diagram_2025-04-26.pdf
+Also see: [test](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/blob/main/Starter-Kit/Assets/Zettelkasten_Class_Diagram_2025-04-26.pdf)
 
 ### Zettelkasten Object-Oriented Model 
 
