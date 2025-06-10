@@ -78,7 +78,7 @@ More about: <a href="https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit
 ### Zettelkasten Mental Gym Model
 
 <img src="/Starter-Kit/Visuals/Zettelkasten_mental-gym_2025-06-08.png" width="500" />
-More about: Use Your Zettelkasten as a Mental Gym.
+More about: Use Your Zettelkasten as a Mental Gym. (Carddeck)
 
 ### Zettelkasten Historical Model
 
